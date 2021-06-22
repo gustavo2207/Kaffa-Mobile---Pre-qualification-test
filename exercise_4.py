@@ -48,7 +48,7 @@ def delete_task(connection):
         print("task removed successfully")
 
 
-def aplication_tasks():
+def application_tasks():
     print("Your's Tasks APP")
 
     servidor = 'localhost/xe'
@@ -100,4 +100,4 @@ def aplication_tasks():
                 print("Opção inválida")
 
 
-aplication_tasks()
+application_tasks()
