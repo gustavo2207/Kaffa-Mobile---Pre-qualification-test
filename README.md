@@ -64,7 +64,7 @@
   </ul>
   <h3>I didn't know how to make a "REST server", so I did it that way, I'm sorry</h3>
   <li><h2>Exercise 7</h2></li>
-  <p>I built my app using draw.io. The exercise is about Entity Relationship Diagram with a model of a simple Order Manager System.</p>
+  <p>I built the exercise using draw.io. The exercise is about Entity Relationship Diagram with a model of a simple Order Manager System.</p>
   <li><h2>Exercise 8</h2></li>
-  <p>I built my app using figma. The exercise is about UX - Prototype and To create a project in order to design new elements in the electric network.</p>
+  <p>I built the exercise using figma. The exercise is about UX - Prototype and To create a project in order to design new elements in the electric network.</p>
 </ul>
