@@ -48,4 +48,19 @@
     <img src="./img/exercise_4_6.jpeg">
   </ul>
   <h3>Remembering that to initialize the code is with the command: "python exercise_3.py", before this install the "instant client" and execute the comand = "pip install cx_oracle"</h3>
-</ul
+  <li><h2>Exercise 5</h2></li>
+  <p>I built my app using HTML, CSS, JavaScript. The app is about consuming a world clock API.</p>
+  <ul>
+    <li><p>In this part, I select where I will put the information extracted from the API. After that, I extract the information and send it to the web page</p></li>
+    <img src="./img/exercise_5_1.jpeg">
+    <li><p>Thereby, i update for each 1 second</p></li>
+    <img src="./img/exercise_5_2.jpeg">
+  </ul>
+  <li><h2>Exercise 6</h2></li>
+  <p>I built my app using HTML, CSS, JavaScript. The purpose of the application is to return in json format the "currentDateTime".</p>
+  <ul>
+    <li><p>First, I select where I will put the information extracted from the API. After that, I extract the "currentDateTime" and send it to web page.</p></li>
+    <img src="./img/exercise_6_1.jpeg">
+  </ul>
+  <h3>I didn't know how to make a "REST server", so I did it that way, I'm sorry</h3>
+</ul>
