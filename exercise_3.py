@@ -26,4 +26,6 @@ def calculate_intersection(coordinates_1, coordinates_2):
         return False
 
 
-print(calculate_intersection(input(), input()))
+input_1 = input("Enter the coordinates of rectangle 1: ")
+input_2 = input("Enter the coordinates of rectangle 2: ")
+print(calculate_intersection(input_1, input_2))
