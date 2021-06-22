@@ -51,13 +51,13 @@ def delete_task(connection):
 def application_tasks():
     print("Your's Tasks APP")
 
-    servidor = 'localhost/xe'
-    usuario = 'SYSTEM'
-    senha = 'gustavo'
+    server = 'localhost/xe'
+    user = 'SYSTEM'
+    password = 'gustavo'
 
     try:
         connection = cx_Oracle.connect(
-            dsn=servidor, user=usuario, password=senha)
+            dsn=server, user=user, password=password)
         cursor = connection.cursor()
     except cx_Oracle.DatabaseError:
         return "Erro de conexão com o BD\n"
