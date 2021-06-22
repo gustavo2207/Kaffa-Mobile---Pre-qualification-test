@@ -89,5 +89,5 @@ def validate_cnpj(string):
     else:
         return "This is a fake CNPJ!"
 
-
-print(validate_cnpj(input()))
+cnpj = input("Enter your CNPJ: ")
+print(validate_cnpj(cnpj))
