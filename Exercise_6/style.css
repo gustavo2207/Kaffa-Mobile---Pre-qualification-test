@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto Mono";
+}
+
+body {
+  background-color: #74b3ce;
+}
+
+.timer {
+  width: 60rem;
+  height: 5rem;
+  margin: 4rem auto;
+  padding: 2rem;
+}
+
+.zone {
+  width: 30rem;
+  margin: 0 auto;
+  background-color: white;
+  font-size: xx-large;
+  text-align: center;
+}
+
+.date {
+  width: 30rem;
+  margin: 0 auto;
+  background-color: white;
+  text-align: center;
+  font-size: xx-large;
+}
